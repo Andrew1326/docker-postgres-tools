@@ -1,0 +1,7 @@
+{
+  "name": "docker-postgres-tools",
+  "version": "0.0.1",
+  "description": "",
+  "author": "Andriy Manzhola",
+  "license": "MIT"
+}
