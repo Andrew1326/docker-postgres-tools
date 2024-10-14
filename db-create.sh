@@ -26,3 +26,5 @@ if [ $? -eq 0 ]; then
 else
   echo "Failed to create database '$DB_NAME'."
 fi
+
+read -p "Press any key to exit."
